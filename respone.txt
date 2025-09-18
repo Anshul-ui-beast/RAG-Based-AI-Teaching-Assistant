@@ -1,0 +1,7 @@
+Hi there! I'd be happy to help you with your Sigma Web Development course.
+
+You asked where block elements are taught in this course. Well, let me check the video chunks for you!
+
+It looks like the topic of inline and block elements is covered in Video 8 of your course. You can go to that specific video and start playing from around the 2-minute mark (specifically at timestamp 495 seconds). In that section, you'll find an explanation on what makes a block element.
+
+To be more precise, the video starts explaining this concept shortly after the 2-minute mark, starting from approximately 495 seconds, where it says "Block element?" and also around 203 seconds into the same video segment (where it mentions "A block element").

@@ -1,0 +1,67 @@
+{"text": " Guys in today's video, I will give you an exercise and whoever solves this exercise, I will give them a shoutout. So write in the comment section, Challenge accepted. If you have any doubts, then write in the comment section.", "segments": [
+        {"id": 0, "seek": 0, "start": 0.0, "end": 6.5600000000000005, "text": " Guys in today's video, I will give you an exercise and whoever solves this exercise, I will give them a shoutout.", "tokens": [
+                50364,
+                7855,
+                294,
+                965,
+                311,
+                960,
+                11,
+                286,
+                486,
+                976,
+                291,
+                364,
+                5380,
+                293,
+                11387,
+                39890,
+                341,
+                5380,
+                11,
+                286,
+                486,
+                976,
+                552,
+                257,
+                8043,
+                346,
+                13,
+                50692
+            ], "temperature": 0.0, "avg_logprob": -0.8580152647835868, "compression_ratio": 1.5410958904109588, "no_speech_prob": 0.02196791023015976
+        },
+        {"id": 1, "seek": 0, "start": 6.5600000000000005, "end": 9.76, "text": " So write in the comment section, Challenge accepted.", "tokens": [
+                50692,
+                407,
+                2464,
+                294,
+                264,
+                2871,
+                3541,
+                11,
+                17517,
+                9035,
+                13,
+                50852
+            ], "temperature": 0.0, "avg_logprob": -0.8580152647835868, "compression_ratio": 1.5410958904109588, "no_speech_prob": 0.02196791023015976
+        },
+        {"id": 2, "seek": 0, "start": 9.76, "end": 11.76, "text": " If you have any doubts, then write in the comment section.", "tokens": [
+                50852,
+                759,
+                291,
+                362,
+                604,
+                22618,
+                11,
+                550,
+                2464,
+                294,
+                264,
+                2871,
+                3541,
+                13,
+                50952
+            ], "temperature": 0.0, "avg_logprob": -0.8580152647835868, "compression_ratio": 1.5410958904109588, "no_speech_prob": 0.02196791023015976
+        }
+    ], "language": "hi"
+}
